@@ -1,0 +1,20 @@
+{
+    "name": "react-native-wheel-picker-next",
+    "version": "1.0.0",
+    "description": "React native cross platform picker.",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/sunnypoint-vn/react-native-wheel-picker-next"
+    },
+    "keywords": [
+        "react-native",
+        "picker",
+        "wheel"
+    ],
+    "author": "HTSI",
+    "homepage": "https://github.com/sunnypoint-vn/react-native-wheel-picker-next"
+}
