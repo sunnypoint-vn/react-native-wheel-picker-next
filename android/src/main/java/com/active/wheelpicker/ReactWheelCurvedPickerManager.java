@@ -16,9 +16,6 @@ import com.facebook.react.views.text.ReactFontManager;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * @author <a href="mailto:lesliesam@hotmail.com"> Sam Yu </a>
- */
 public class ReactWheelCurvedPickerManager extends SimpleViewManager<WheelPicker> implements WheelPicker.OnItemSelectedListener{
 
     public static final String REACT_CLASS = "WheelPicker";
