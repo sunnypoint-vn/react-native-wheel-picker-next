@@ -1,4 +1,4 @@
-package com.zyu;
+package com.active.wheelpicker;
 
 import com.facebook.react.ReactPackage;
 import com.facebook.react.bridge.JavaScriptModule;
