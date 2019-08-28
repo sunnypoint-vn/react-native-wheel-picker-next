@@ -1,6 +1,6 @@
 # ReactNativeWheelPicker
 
-[![NPM Version](https://img.shields.io/github/package-json/v/sunnypoint-vn/react-native-wheel-picker-next.svg?color=green)](https://www.npmjs.com/package/appicon-maker)
+[![NPM Version](https://img.shields.io/github/package-json/v/sunnypoint-vn/react-native-wheel-picker-next.svg?color=green)](https://www.npmjs.com/package/react-native-wheel-picker-next)
 
 [![npm version](http://img.shields.io/npm/dm/react-native-wheel-picker-next.svg?style=flat-square)](https://npmjs.org/package/react-native-wheel-picker-next "View this project on npm")
 
