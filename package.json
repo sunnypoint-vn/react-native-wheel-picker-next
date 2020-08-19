@@ -10,6 +10,9 @@
         "type": "git",
         "url": "git+https://github.com/sunnypoint-vn/react-native-wheel-picker-next"
     },
+    "dependencies": {
+        "@react-native-community/picker": ">=1.6.5"
+    },
     "keywords": [
         "react-native",
         "picker",
